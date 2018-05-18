@@ -1,2 +1,4 @@
 # band
-Website | HTML CSS Bootstrap
+Website | HTML CSS
+
+Website for a band
